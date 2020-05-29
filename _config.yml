@@ -17,7 +17,7 @@ title: "Zebra Crossing"
 description: "An easy-to-use digital safety checklist"
 lang: "en" # or fr, de, es etc.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://narwhalacademy.github.io/zebra-crossing" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shenchingtou.github.io/zebra-crossing" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Include styles inline or link to css file?
 # This has to be set to css: inline for the theme to inline styles
